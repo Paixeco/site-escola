@@ -1,4 +1,4 @@
-header{background-color: #383D58; display: flex;}
+header{background-color: #424E61; display: flex;}
  
 .cabecalho-imagem{
     width: 20%;
@@ -19,4 +19,24 @@ header{background-color: #383D58; display: flex;}
 *{
     margin: 0;
     padding: 0;
+}
+.escola-imagem{
+    width: 25%;
+}
+.escola{
+    background-image: linear-gradient(#424E61,#16CFF8);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+.escola-div-conteudo{
+    width: 35%;
+}
+.escola-titulo{
+    padding: 24px 0;
+}
+body {
+    font-family: 'Poppins', sans-serif;
 }
