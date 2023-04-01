@@ -37,6 +37,10 @@ header{background-color: #424E61; display: flex;}
 .escola-titulo{
     padding: 24px 0;
 }
+#estudante{
+     padding: 24px 0;
+
+}
 body {
     font-family: 'Poppins', sans-serif;
 }
